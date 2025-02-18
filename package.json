@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mustafa hamidi",
+	"description": "A simple project",
+	"keywords": ["node", "express", "npm", "api", "backend","freecodecamp"],
+	"license":"BSD",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
